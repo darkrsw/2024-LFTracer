@@ -31,7 +31,7 @@ def test_lf_sha256():
 
 Note:
 
-* N1. `pytest` (based on `test_lf1.py`) is just for validating your program. The final grading will be made by other test cases.
+* N1. `pytest` (based on `test_lf1.py` and `test_lf2.py`) is just for validating your program. The final grading will be made by other test cases.
 * N2. Submissions via GitHub Classroom will only be accepted. Submissions via LMS are not accepted.
 * N3. Late submissions are NOT allowed.
 * N4. DO NOT change files in this repository except for `LVVTracer.py`. Adding new files are NOT allowed.
