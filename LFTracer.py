@@ -4,7 +4,7 @@ import sys
 
 
 class LFTracer():
-  def __init__(self, target_func: str):
+    def __init__(self, target_func: str):
         self.target_func = target_func
 
     def __enter__(self) -> Any:
